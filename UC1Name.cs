@@ -7,6 +7,7 @@ namespace UserRegistrationDay19
 {
     public class UC1Name
     {
+
         public static void ValidationName()
         {
             Console.Write("Please enter your Name:");
