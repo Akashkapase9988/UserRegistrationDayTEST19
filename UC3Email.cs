@@ -8,6 +8,7 @@ namespace UserRegistrationDay19
     class UC3Email
     {
         public static void validationEmail()
+
         {
             Console.Write("Please enter your Email:");
             string Email = Console.ReadLine();
